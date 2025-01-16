@@ -1,0 +1,9 @@
+name: PlayerTracker
+version: 1.0
+main: org.main.playerTracker.PlayerTracker
+api-version: 1.19
+commands:
+  tracker:
+    description: Gives you a Tracker Compass.
+    usage: /tracker
+    permission-message: You do not have permission to use this command.
